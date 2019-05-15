@@ -10,13 +10,13 @@ information and quick facts about the page's topic.
 These infoboxes are easy to create on your own, using the `infobox language` template!
 
 To use it, copy-paste the following template into the top of your page:
-``
+```
 {{infobox Language
   |
   |
   |
 }}
-``
+```
 
 ## Tables
 Tables are unfortunately quite tedious to do correctly. Your best bet is probably
@@ -32,13 +32,13 @@ advanced features if desired.
 
 Simply copy-paste the following template into your page where you would like the
 three-line gloss to appear:
-``
+```
 {{interlinear | lang = XXX
   | words in the IPA
   | MEAN ING OF WORDS
   | "Loose translation of sentence, in quotes"
   }}
-``
+```
 
 If desired, a reference can also be placed at the end of the
 
@@ -55,7 +55,9 @@ Specific pages of a reference can be cited using the `rp` template.
 To use it, simply copy-paste the following template into your article following
 the citation:
 
-``{{rp|360}}``
+```
+{{rp|360}}
+```
 
 where 360 is replaced by the page number you wish to cite.
 
